@@ -1,3 +1,4 @@
+# Data Cleaning SQL
 This project focuses on cleaning and preparing a dataset of company layoffs using SQL.
 The process was carried out in multiple steps to ensure data accuracy, consistency, and usability for further analysis.
 
